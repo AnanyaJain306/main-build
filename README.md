@@ -4,7 +4,7 @@ download brew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Home
 
 then download all the other libraries
 
-``` pip3 install -r main.txt ```
+``` sudo pip3 install -r main.txt ```
 
 to check for version later on
 
@@ -12,5 +12,5 @@ to check for version later on
 
 to upgrade versions later
 
-``` pip3 install -r upgrade.txt ``` 
+``` sudo pip3 install -r upgrade.txt ``` 
 
