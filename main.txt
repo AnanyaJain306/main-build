@@ -1,0 +1,13 @@
+numpy
+matplotlib
+scipy
+keras
+flask
+newspaper3k
+tensorflow
+nltk
+opencv-contrib-python
+gunicorn
+tqdm
+fuzzywuzzy
+python-Levenshtein

@@ -9,3 +9,8 @@ then download all the other libraries
 to check for version later on
 
 ``` python version.py ``` 
+
+to upgrade versions later
+
+``` pip3 install -r upgrade.txt ``` 
+
