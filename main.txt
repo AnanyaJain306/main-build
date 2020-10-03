@@ -11,3 +11,7 @@ gunicorn
 tqdm
 fuzzywuzzy
 python-Levenshtein
+PyTorch
+pandas
+scrapy
+seaborn
